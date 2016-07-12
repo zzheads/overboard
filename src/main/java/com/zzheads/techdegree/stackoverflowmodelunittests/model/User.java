@@ -1,7 +1,7 @@
-package com.teamtreehouse.techdegree.overboard.model;
+package com.zzheads.techdegree.stackoverflowmodelunittests.model;
 
-import com.teamtreehouse.techdegree.overboard.exc.AnswerAcceptanceException;
-import com.teamtreehouse.techdegree.overboard.exc.VotingException;
+import com.zzheads.techdegree.stackoverflowmodelunittests.exc.AnswerAcceptanceException;
+import com.zzheads.techdegree.stackoverflowmodelunittests.exc.VotingException;
 
 import java.util.Collections;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.teamtreehouse.techdegree.overboard.model;
+package com.zzheads.techdegree.stackoverflowmodelunittests.model;
 
 public class Answer extends Post {
     private Question question;

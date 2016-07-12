@@ -1,4 +1,4 @@
-package com.teamtreehouse.techdegree.overboard.model;
+package com.zzheads.techdegree.stackoverflowmodelunittests.model;
 
 import java.util.ArrayList;
 import java.util.Collections;
